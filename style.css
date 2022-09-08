@@ -1,0 +1,10 @@
+/* :root{
+  --primary:hsl(238,64%,76%);
+  --secondary:#A2B9ED;
+  --primary_two:#a3dcef;
+  --secondary-two:#aeede2;
+}
+body{
+    color: var(--primary);
+    background-color:blue;
+} */
